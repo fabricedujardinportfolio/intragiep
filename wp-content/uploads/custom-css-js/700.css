@@ -1,0 +1,124 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+/* Ajouter votre code CSS ici.
+                     
+Par exemple:
+.exemple {
+    color: red;
+}
+
+/*Pour améliorer vos connaissances en CSS, visitez http://www.w3schools.com/css/css_syntax.asp
+
+Fin du commentaire */ 
+
+.colorwhitebouton{
+  color:white;
+}
+/*MENU*/
+/*
+.information-ico {
+background-image: url('http://192.168.40.60/intragiep/wp-content/uploads/2021/01/information-orientation.png');
+background-repeat: no-repeat;
+background-position: left;
+padding: 0 0 0 5px;
+}
+.maintenance-ico {
+background-image: url('http://192.168.40.60/intragiep/wp-content/uploads/2021/01/mantenance-automobile.png');
+background-repeat: no-repeat;
+background-position: left;
+padding: 0 0 0 5px;
+}
+.logistique-ico {
+background-image: url('http://192.168.40.60/intragiep/wp-content/uploads/2021/01/transport-logistique.png');
+background-repeat: no-repeat;
+background-position: left;
+padding: 0 0 0 5px;
+}
+.industrie-ico {
+background-image: url('http://192.168.40.60/intragiep/wp-content/uploads/2021/01/industrie.png');
+background-repeat: no-repeat;
+background-position: left;
+padding: 0 0 0 5px;
+}
+.mer-ico {
+background-image: url('http://192.168.40.60/intragiep/wp-content/uploads/2021/01/mer.png');
+background-repeat: no-repeat;
+background-position: left;
+padding: 0 0 0 5px;
+}
+.restauration-ico {
+background-image: url('http://192.168.40.60/intragiep/wp-content/uploads/2021/01/hotellerie-restauration.png');
+background-repeat: no-repeat;
+background-position: left;
+padding: 0 0 0 5px;
+}
+.spot-ico {
+background-image: url('http://192.168.40.60/intragiep/wp-content/uploads/2021/01/spot.png');
+background-repeat: no-repeat;
+background-position: left;
+padding: 0 0 0 5px;
+}*/
+/*Barre de recherche */
+.dataTables_filter{
+      width: 100%;
+    text-align: center;
+}
+#tablepress-4 td.column-5 {  
+  font-size:1.2em;
+  font-weight:bold;
+}
+div.elementor-widget-container > div > a {
+    display: inline-block !important;
+}
+.tablepress tbody td {
+	vertical-align: middle !important;
+  	text-align:center !important;
+}
+/*CSS PÔLE*/
+
+#tablepress-3 > thead > tr > th.column-3.sorting_disabled{
+  width:100px !important;
+}
+#tablepress-3 > thead > tr > th.column-4.sorting_disabled{
+  width:100px !important;
+}
+
+/*CSS DIRECTION*/ 
+/*TD CLASS*/
+.titlecolor{
+  color:black;
+}
+#tablepress-4 td.column-4 {
+  color:red !important;
+  font-weight:bold;
+}
+#tablepress-4 td.column-1 {
+  font-weight:bold;
+}
+#tablepress-4 td.column-2 {
+  font-weight:bold;
+}
+#tablepress-4 td.column-3 {
+  font-weight:bold;
+}
+#tablepress-4 td.column-5 {
+  font-weight:bold;
+}
+#tablepress-4 td.column-6 {
+  font-weight:bold;
+}
+#tablepress-4 td.column-7 {
+  font-weight:bold;
+  color:blue;
+}
+/*th classe*/
+#tablepress-4 th.column-1 {
+ width:160px !important
+}
+#tablepress-4 th.column-5 {
+  width:100px !important;
+}
+#tablepress-4 th.column-6 {  
+  width:100px !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->

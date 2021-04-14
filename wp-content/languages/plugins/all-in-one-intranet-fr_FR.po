@@ -1,0 +1,125 @@
+# Translation of Plugins - All-In-One Intranet - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - All-In-One Intranet - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-01-19 11:45:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - All-In-One Intranet - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "Lever Technology LLC"
+msgstr "Lever Technology LLC"
+
+#. Author URI of the plugin
+msgid "http://wp-glogin.com/"
+msgstr "http://wp-glogin.com/"
+
+#. Description of the plugin
+msgid "Instantly turn WordPress into a private corporate intranet"
+msgstr "Transformez instantanément WordPress en un intranet d’entreprise privé"
+
+#. Plugin URI of the plugin
+msgid "http://wp-glogin.com/all-in-one-intranet"
+msgstr "http://wp-glogin.com/all-in-one-intranet"
+
+#: core/core_all_in_one_intranet.php:399
+msgid "Settings saved"
+msgstr "Réglages enregistrés"
+
+#: core/core_all_in_one_intranet.php:359
+msgid "Unspecified error"
+msgstr "Erreur non spécifiée"
+
+#: core/core_all_in_one_intranet.php:354
+msgid "Auto logout time should be blank or a whole number"
+msgstr "Le temps de déconnexion automatique doit être vide ou un nombre entier"
+
+#: core/core_all_in_one_intranet.php:315
+msgid "Days"
+msgstr "Jours"
+
+#: core/core_all_in_one_intranet.php:314
+msgid "Hours"
+msgstr "Heures"
+
+#: core/core_all_in_one_intranet.php:313
+msgid "Minutes"
+msgstr "Minutes"
+
+#: core/core_all_in_one_intranet.php:300
+msgid "(leave blank to turn off auto-logout)"
+msgstr "(laissez vide pour désactiver la déconnexion automatique)"
+
+#: core/core_all_in_one_intranet.php:293
+msgid "Auto logout inactive users after "
+msgstr "Déconnexion automatique des utilisateurs inactifs après "
+
+#: core/core_all_in_one_intranet.php:281
+msgid "Effective when users login via /wp-login.php directly. Otherwise, they will be taken to the page they were trying to access before being required to login."
+msgstr "Efficace lorsque les utilisateurs se connectent directement via /wp-login.php. Sinon, ils seront redirigés vers la page à laquelle ils tentaient d’accéder avant d’être tenus de se connecter."
+
+#: core/core_all_in_one_intranet.php:274
+msgid "Redirect after login to URL: "
+msgstr "URL de redirection après connexion : "
+
+#: core/core_all_in_one_intranet.php:271
+msgid "Login Redirect"
+msgstr "Redirection de connexion"
+
+#: core/core_all_in_one_intranet.php:259
+msgid "Turn off here"
+msgstr "Désactiver ici"
+
+#: core/core_all_in_one_intranet.php:256
+msgid "Your site is set so that &quot;Anyone can register&quot; themselves. "
+msgstr "Votre site est configuré pour que « tout le monde puisse s’inscrire »."
+
+#: core/core_all_in_one_intranet.php:255
+msgid "Warning:"
+msgstr "Avertissement :"
+
+#: core/core_all_in_one_intranet.php:246
+msgid "Note that your media uploads (e.g. photos) will still be accessible to anyone who knows their direct URLs."
+msgstr "Notez que vos téléversements de médias (ex : photos) seront toujours accessibles à tous ceux qui connaissent leur URL directe."
+
+#: core/core_all_in_one_intranet.php:240
+msgid "Require logged-in users to be members of a sub-site to view it"
+msgstr "Exiger que les utilisateurs connectés soient membres d’un sous-site pour voir ceci"
+
+#: core/core_all_in_one_intranet.php:232
+msgid "Force site to be entirely private"
+msgstr "Forcer le site à être entièrement privé"
+
+#: core/core_all_in_one_intranet.php:228
+msgid "Privacy"
+msgstr "Confidentialité"
+
+#: core/core_all_in_one_intranet.php:217
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: core/core_all_in_one_intranet.php:201
+msgid "All-In-One Intranet setup"
+msgstr "Configuration de All-In-One Intranet"
+
+#. Plugin Name of the plugin
+#: core/core_all_in_one_intranet.php:177 core/core_all_in_one_intranet.php:183
+msgid "All-In-One Intranet"
+msgstr "All-In-One Intranet"
+
+#: core/core_all_in_one_intranet.php:176 core/core_all_in_one_intranet.php:182
+msgid "All-In-One Intranet settings"
+msgstr "Réglages de All-In-One Intranet"
+
+#: core/core_all_in_one_intranet.php:149
+msgid "Settings"
+msgstr "Réglages"
+
+#: core/core_all_in_one_intranet.php:41
+msgid "You attempted to login to the site, but you do not have any permissions. If you believe you should have access, please contact your administrator."
+msgstr "Vous avez tenté de vous connecter au site, mais vous ne disposez d’aucun droit. Si vous pensez que vous devriez y avoir accès, veuillez contacter votre administrateur."

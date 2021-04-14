@@ -1,0 +1,24 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(2021/01/Cahier-des-charges-intranet-GIEP-NC-V2.pdf)$ ../../index.php?wpdmmediaid=1149&wpdmmedia=$1
+RewriteRule ^(2021/01/Annuaire-interne.pdf)$ ../../index.php?wpdmmediaid=1709&wpdmmedia=$1
+RewriteRule ^(2021/01/Assemblee-generale-et-Conseil-dadministration.pdf)$ ../../index.php?wpdmmediaid=1714&wpdmmedia=$1
+RewriteRule ^(2021/01/Charte-informatique.pdf)$ ../../index.php?wpdmmediaid=1717&wpdmmedia=$1
+RewriteRule ^(2021/01/Convention-constitutive.pdf)$ ../../index.php?wpdmmediaid=1721&wpdmmedia=$1
+RewriteRule ^(2021/01/Delegues-du-personnel.pdf)$ ../../index.php?wpdmmediaid=1724&wpdmmedia=$1
+RewriteRule ^(2021/01/Dossier-de-presentation.pdf)$ ../../index.php?wpdmmediaid=1728&wpdmmedia=$1
+RewriteRule ^(2021/01/Organigramme-fonctionnel.pdf)$ ../../index.php?wpdmmediaid=1732&wpdmmedia=$1
+RewriteRule ^(2021/01/Reglement-interieur.pdf)$ ../../index.php?wpdmmediaid=1736&wpdmmedia=$1
+RewriteRule ^(2021/01/Representants-du-personnel-au-CA.pdf)$ ../../index.php?wpdmmediaid=1740&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-POLE.pdf)$ ../../index.php?wpdmmediaid=1752&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-transport-logistique.pdf)$ ../../index.php?wpdmmediaid=1757&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-POLE-INDUSTRIE.pdf)$ ../../index.php?wpdmmediaid=1761&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-POLE-METIERS-DE-LA-MER.pdf)$ ../../index.php?wpdmmediaid=1765&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-POLE-HOTELLERIE-RESTAURATION.pdf)$ ../../index.php?wpdmmediaid=1769&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-DU-POLE-SPOT.pdf)$ ../../index.php?wpdmmediaid=1773&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-SERVICE-DE-DIRECTION.pdf)$ ../../index.php?wpdmmediaid=1777&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-SERVICE-DES-MOYENS-GENERAUX.pdf)$ ../../index.php?wpdmmediaid=1782&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-DES-SERVICE-COMMUNICATION-DOCUMENTATION.pdf)$ ../../index.php?wpdmmediaid=1786&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-SERVICE-COORDINATION-ET-PERI-FORMATION-BOURAIL.pdf)$ ../../index.php?wpdmmediaid=1790&wpdmmedia=$1
+RewriteRule ^(2021/01/TEST-DE-LAMICAL-DU-GIEP.pdf)$ ../../index.php?wpdmmediaid=1794&wpdmmedia=$1
+</IfModule>

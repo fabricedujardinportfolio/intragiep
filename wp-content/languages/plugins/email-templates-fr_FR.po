@@ -1,0 +1,254 @@
+# Translation of Plugins - Email Templates - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Email Templates - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-06 10:04:51+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Email Templates - Stable (latest release)\n"
+
+#. Author URI of the plugin
+msgid "https://wp.timersys.com"
+msgstr "https://wp.timersys.com"
+
+#. Author of the plugin
+msgid "Damian Logghe"
+msgstr "Damian Logghe"
+
+#. Description of the plugin
+msgid "Beautify WordPress default emails"
+msgstr "Embellir les e-mails par défaut de WordPress"
+
+#. Plugin URI of the plugin
+msgid "http://wordpress.org/plugins/email-templates"
+msgstr "http://wordpress.org/plugins/email-templates"
+
+#: includes/customize-controls/class-send-mail-customize-control.php:11
+msgid "Email sent!"
+msgstr "E-mail envoyé !"
+
+#: includes/customize-controls/class-send-mail-customize-control.php:9
+msgid "Send"
+msgstr "Envoyer"
+
+#: includes/class-mailtpl.php:80 includes/class-mailtpl.php:88
+msgid "Cheatin&#8217; huh?"
+msgstr "Alors, on triche ?"
+
+#: includes/class-mailtpl-mailer.php:98
+msgid "Wp Email Templates"
+msgstr "Modèles d’e-mail WP"
+
+#: includes/class-mailtpl-customizer.php:673
+msgid "Save the template and then click the button to send a test email to admin email "
+msgstr "Enregistrez le modèle puis cliquez sur le bouton pour envoyer un e-mail de test à l’adresse de l'administrateur "
+
+#: includes/class-mailtpl-customizer.php:643
+msgid "Display a tiny link to the plugin page"
+msgstr "Afficher un petit lien vers la page de l’extension"
+
+#: includes/class-mailtpl-customizer.php:635
+msgid "Powered by"
+msgstr "Propulsé par"
+
+#: includes/class-mailtpl-customizer.php:620
+msgid "Choose footer text color"
+msgstr "Choisissez la couleur du texte du pied de page"
+
+#: includes/class-mailtpl-customizer.php:585
+msgid "Choose footer background color"
+msgstr "Choisissez la couleur d’arrière-plan du pied de page"
+
+#: includes/class-mailtpl-customizer.php:567
+msgid "Choose alignment for footer"
+msgstr "Choisissez l’alignement pour le pied de page"
+
+#: includes/class-mailtpl-customizer.php:542
+msgid "Change the email footer here"
+msgstr "Changez le pied de page de l’e-mail ici"
+
+#: includes/class-mailtpl-customizer.php:538
+msgid "Footer text"
+msgstr "Texte du pied de page"
+
+#: includes/class-mailtpl-customizer.php:512
+msgid "Choose links color"
+msgstr "Choisir la couleur des liens"
+
+#: includes/class-mailtpl-customizer.php:509
+msgid "Links Color"
+msgstr "Couleur des liens"
+
+#: includes/class-mailtpl-customizer.php:495
+msgid "Choose body text color"
+msgstr "Choisir la couleur du corps de texte"
+
+#: includes/class-mailtpl-customizer.php:459
+msgid "Choose email body background color"
+msgstr "Choisir la couleur d’arrière-plan du corps de l’e-mail"
+
+#: includes/class-mailtpl-customizer.php:431
+msgid "Choose header text color"
+msgstr "Choisir la couleur du texte de l’en-tête"
+
+#: includes/class-mailtpl-customizer.php:428
+#: includes/class-mailtpl-customizer.php:492
+#: includes/class-mailtpl-customizer.php:617
+msgid "Text Color"
+msgstr "Couleur du texte"
+
+#: includes/class-mailtpl-customizer.php:413
+#: includes/class-mailtpl-customizer.php:477
+#: includes/class-mailtpl-customizer.php:603
+msgid "Slide to change text size"
+msgstr "Faire glisser pour changer la taille du texte"
+
+#: includes/class-mailtpl-customizer.php:409
+#: includes/class-mailtpl-customizer.php:473
+#: includes/class-mailtpl-customizer.php:599
+msgid "Text size"
+msgstr "Taille du texte"
+
+#: includes/class-mailtpl-customizer.php:395
+msgid "Choose header background color"
+msgstr "Choisir la couleur d’arrière-plan de l’en-tête"
+
+#: includes/class-mailtpl-customizer.php:377
+msgid "Choose alignment for header"
+msgstr "Choisir l’alignement de l’en-tête"
+
+#: includes/class-mailtpl-customizer.php:367
+#: includes/class-mailtpl-customizer.php:557
+msgid "Aligment"
+msgstr "Alignement"
+
+#: includes/class-mailtpl-customizer.php:353
+msgid "Add text to your mail header. Used for alt text when Image it's used"
+msgstr "Ajouter du texte à l’en-tête de votre e-mail. Utilisé comme texte alternatif si une image est utilisé."
+
+#: includes/class-mailtpl-customizer.php:334
+msgid "Add an image to use in header. Leave empty to use text instead"
+msgstr "Ajouter une image à utiliser dans l’en-tête. Laisser vide pour utiliser du texte à la place."
+
+#: includes/class-mailtpl-customizer.php:330
+#: includes/class-mailtpl-customizer.php:349
+msgid "Logo"
+msgstr "Logo"
+
+#: includes/class-mailtpl-customizer.php:304
+msgid "Add custom css. Be aware that this may not work on all email clients."
+msgstr "Ajouter du CSS personnalisé. Sachez que cela peut ne pas fonctionner pour tous les clients e-mail."
+
+#: includes/class-mailtpl-customizer.php:300
+msgid "Custom css"
+msgstr "CSS personnalisé"
+
+#: includes/class-mailtpl-customizer.php:286
+msgid "Choose email background color"
+msgstr "Choisir la couleur d’arrière-plan de l’e-mail"
+
+#: includes/class-mailtpl-customizer.php:283
+#: includes/class-mailtpl-customizer.php:392
+#: includes/class-mailtpl-customizer.php:456
+#: includes/class-mailtpl-customizer.php:582
+msgid "Background Color"
+msgstr "Couleur d’arrière-plan"
+
+#: includes/class-mailtpl-customizer.php:269
+msgid "Choose boxed size"
+msgstr "Choisir une taille fixe"
+
+#: includes/class-mailtpl-customizer.php:266
+msgid "Email body size"
+msgstr "Taille du texte du corps de l’e-mail"
+
+#: includes/class-mailtpl-customizer.php:244
+msgid "Choose one"
+msgstr "Choisir un modèle"
+
+#: includes/class-mailtpl-customizer.php:213
+msgid "From Email"
+msgstr "E-mail de l’expéditeur"
+
+#: includes/class-mailtpl-customizer.php:199
+#: includes/class-mailtpl-customizer.php:217
+msgid "Default: "
+msgstr "Par défaut : "
+
+#: includes/class-mailtpl-customizer.php:195
+msgid "From name"
+msgstr "Nom de l’expéditeur"
+
+#: includes/class-mailtpl-customizer.php:82
+#: includes/class-mailtpl-customizer.php:669
+msgid "Send test email"
+msgstr "Envoyer un e-mail de test"
+
+#: includes/class-mailtpl-customizer.php:78
+msgid "Footer"
+msgstr "Pied de page"
+
+#: includes/class-mailtpl-customizer.php:74
+msgid "Email Body"
+msgstr "Corps de l’e-mail"
+
+#: includes/class-mailtpl-customizer.php:70
+msgid "Email Header"
+msgstr "En-tête de l’e-mail"
+
+#: includes/class-mailtpl-customizer.php:66
+msgid "Template"
+msgstr "Modèle"
+
+#: includes/class-mailtpl-customizer.php:62
+msgid "Settings"
+msgstr "Réglages"
+
+#: includes/class-mailtpl-customizer.php:56
+msgid "Within the Email Templates customizer you can change how your WordPress Emails looks. It's fully compatible with WooCommerce and Easy Digital Downloads html emails"
+msgstr "Dans l’outil de personnalisation de modèles d’e-mail vous pouvez changer l’apparence des e-mails WordPress. C’est entièrement compatible avec les e-mails HTML de WooCommerce et de Easy Digital Downloads"
+
+#: admin/test.php:47
+msgid "Link Color"
+msgstr "Couleur du lien"
+
+#: admin/test.php:28
+msgid "Allows you to customize some example settings for MyTheme."
+msgstr "Vous autorise à personnaliser quelques exemples de réglages pour votre thème."
+
+#: admin/test.php:25
+msgid "MyTheme Options"
+msgstr "Options de votre thème"
+
+#: admin/templates/partials/default-message.php:6
+msgid "You can use any of these placeholders in your emails content or templates and they will be automatically replaced"
+msgstr "Vous pouvez utiliser l’un de ces textes indicatifs dans le contenu de vos e-mail ou de vos modèles et ils seront automatiquement remplacés."
+
+#: admin/templates/partials/default-message.php:3
+msgid "We would like to ask you a little favour. If you are happy with the plugin and can take a minute please <a href=\"%s\" target=\"_blank\">leave a nice review</a> on WordPress. It will be a tremendous help for us!"
+msgstr "Nous aimerions vous demander une petite faveur. Si vous êtes satisfait de l’extension et avez une minute veuillez de <a href=\"%s\" target=\"_blank\">nous laisser un gentil commentaire</a> sur WordPress. Ça nous serait d’une aide formidable !"
+
+#: admin/templates/partials/default-message.php:2
+msgid "The email template is responsive an fully customizable. I hope you enjoy it!"
+msgstr "Le modèle d’e-mail est responsive et entièrement personnalisable. J’espère que vous l’apprécierez !"
+
+#: admin/templates/partials/default-message.php:1
+msgid "Here you will see the email content that is normally sent in WordPress."
+msgstr "Vous verrez ici le contenu de l’e-mail qui est normalement envoyé à WordPress."
+
+#: admin/class-mailtpl-admin.php:214
+msgid "This section lets you customize the WooCommerce emails. <a href=\"%s\" target=\"_blank\">Click here to preview your email template</a>."
+msgstr "Cette section vous permet de personnaliser les e-mails WooCommerce. <a href=\"%s\" target=\"_blank\">Cliquer ici pour prévisualiser votre modèle d’e-mail</a>."
+
+#: admin/class-mailtpl-admin.php:163
+msgid "Now you can edit your email template right in the Appearance menu"
+msgstr "Vous pouvez désormais modifier votre modèle d’e-mail directement dans le menu Apparence"
+
+#. Plugin Name of the plugin
+#: admin/class-mailtpl-admin.php:162 includes/class-mailtpl-customizer.php:55
+msgid "Email Templates"
+msgstr "Modèles d’e-mail"
