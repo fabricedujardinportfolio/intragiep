@@ -105,7 +105,14 @@ if ( ! function_exists( 'magazine_plus_head' ) ) :
 		<link rel="prefetch" href="http://intranet_dev/annuaire-interne/pole-preparatoire/">
 		<link rel="prefetch" href="http://intranet_dev/annuaire-interne/pole-tourisme-hotellerie-restauration/">
 		<link rel="prefetch" href="http://intranet_dev/annuaire-interne/logistique-annuaire/">
-		<link rel="prefetch" href="http://intranet_dev/annuaire-interne/annuaire-des-agents-du-pole-metiers-de-la-mer/">
+		<!-- LES DOCUMENTS LE PLUS VISITER -->
+		<link rel="prefetch" href="http://intranet_dev/download/livret-daccueil/">
+		<!-- ADMIN -->
+		<link rel="prefetch" href="http://intranet_dev/wp-admin/">
+		<link rel="prefetch" href="http://intranet_dev/wp-admin/profile.php">
+		<link rel="prefetch" href="http://intranet_dev/wp-admin/upload.php">
+		<link rel="prefetch" href="http://intranet_dev/wp-admin/admin.php?page=tablepress">
+		<link rel="prefetch" href="http://intranet_dev/wp-admin/edit.php?post_type=ifso_triggers">
 	    <?php
 	}
 endif;
